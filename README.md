@@ -11,7 +11,9 @@ Actualmente, hay dos spiders en este repositorio:
 
  ![Imagen del ejercicio](https://github.com/EgoitzAB/scraping_with_Scrapy/blob/main/upwork.png)
 
+3. El tercero es uno al que he aplicado en Upwork, y que he terminado sin haber tenido respuesta, scraping de 20 minutos en el que falta añadir un parser a excel.
 
+![Imagen del ejercicio1](https://github.com/EgoitzAB/scraping_with_Scrapy/blob/main/upwork1.png)
 
 
 Planeo seguir agregando más spiders a este repositorio a medida que los vaya creando. De hecho, los dos primeros comparten settings por descuido.
